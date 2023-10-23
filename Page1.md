@@ -80,10 +80,10 @@ network
 
 **Data service**
 
--Azure Cosmos DB: A globally distributed, multi-model database service for managing NoSQL data.
+- Azure Cosmos DB: A globally distributed, multi-model database service for managing NoSQL data.
 
 - Azure Database for MySQL: A fully managed MySQL database service.
-- 
+
 - Azure Database for PostgreSQL: A fully managed PostgreSQL database service.
 
 **Networking Service**
