@@ -10,7 +10,7 @@ Requirements
 
 Part 1: Creating Your ASP.NET Web App
 
-Step 1:
+**Step 1:**
 
 Open Visual Studio Code and Create a Folder.
 
@@ -24,7 +24,7 @@ Type: ‘dotnet run’
 
 Look for where the URL for your Web App is inside the Terminal, it should look like: ‘http://localhost:5242’, press ‘Ctrl’ and click on the URL or Copy and Paste the URL into the Search Bar of your Browser to see your Web App.
 
-Step 2: Publishing Your Web App
+**Step 2: Publishing Your Web App**
 
 At the Top of the Screen, click on ‘View’ and then click on ‘Command Palette’
 
@@ -55,7 +55,7 @@ When the next popup appears, select ‘Deploy’
 
 Once the Web App has been deployed, click ‘Browse Website’ to see if the Web App is working.
 
-Step 3: Customising Your Web App
+**Step 3: Customising Your Web App**
 
 So, now you’ve got a Web App. But it’s empty!
 
@@ -75,7 +75,7 @@ Inside the Div ‘<div class=”text-center”>, type in <p>Hello World!</p>  ty
 
 Go to Youtube and find a Video of your liking, for the purpose of this Tutorial you may want to use: https://www.youtube.com/watch?v=y-sBp4MD3is. Open the Video and right click on it and select ‘Copy Embed Code’. In Visual Studio Code simply paste the Embed Code inside the Div.
 
-Step 4: Cleaning Up
+**Step 4: Cleaning Up**
 
 Open the Microsoft Azure Homepage and click on ‘App Services’ and select the Web App that you created, and click ‘Delete’ at the righthand side of the options at the top of the screen, and then type ‘delete’ in the box at the bottom right of the screen. Click ‘Delete’ and delete the Web App.
 
