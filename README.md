@@ -1,7 +1,3 @@
-Microsoft Azure Presentation and Tutorial
-
-Microsoft Azure Tutorial
-
 Requirements
 
 •	Azure Account (https://azure.microsoft.com/en-gb)
