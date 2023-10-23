@@ -4,15 +4,21 @@ Microsoft Azure Tutorial
 
 Requirements
 
-•	Azure Account
+•	Azure Account (https://azure.microsoft.com/en-gb)
 
-•	.NET 7.0 (You may want to download this from a Web Browser)
+•	.NET 7.0 (https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
-•	Visual Studio Code
+•	Visual Studio Code (https://code.visualstudio.com/)
 
 •	Azure Tools Extension
 
 **Step 1: Creating Your ASP.NET Web App**
+
+Download Net 7.0 by downloading the Installer from the Website and then running it on your Computer.
+
+Download and Install Visual Studio Code.
+
+Inside Visual Studio Code find 'Extensions' on the lefthand side and search for 'Azure Tools Extension', download the Extension to continue with the Tutorial.
 
 Open Visual Studio Code and Create a Folder.
 
