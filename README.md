@@ -3,7 +3,8 @@ Microsoft Azure Presentation and Tutorial
 Microsoft Azure Tutorial
 
 Requirements
-•	Azure Account (You may want to create Account during
+
+•	Azure Account
 
 •	.NET 7.0 (You may want to download this from a Web Browser)
 
