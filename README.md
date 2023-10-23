@@ -8,9 +8,7 @@ Requirements
 •	Visual Studio Code
 •	Azure Tools Extension
 
-Part 1: Creating Your ASP.NET Web App
-
-**Step 1:**
+**Step 1: Creating Your ASP.NET Web App**
 
 Open Visual Studio Code and Create a Folder.
 
