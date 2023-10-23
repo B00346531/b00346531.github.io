@@ -4,8 +4,11 @@ Microsoft Azure Tutorial
 
 Requirements
 •	Azure Account (You may want to create Account during
+
 •	.NET 7.0 (You may want to download this from a Web Browser)
+
 •	Visual Studio Code
+
 •	Azure Tools Extension
 
 **Step 1: Creating Your ASP.NET Web App**
